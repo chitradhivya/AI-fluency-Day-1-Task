@@ -1,9 +1,1 @@
 # AI-fluency-Day-1-Task
-
-## Output screenshots
-
-[![Screenshot 1](output/Screenshot%202026-09-22%20142041.png)](output/Screenshot%202026-09-22%20142041.png)
-
-[![Screenshot 2](output/Screenshot%202026-09-22%20142153.png)](output/Screenshot%202026-09-22%20142153.png)
-
-[![Screenshot 3](output/Screenshot%202026-09-22%20142408.png)](output/Screenshot%202026-09-22%20142408.png)
